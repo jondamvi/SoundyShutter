@@ -1,0 +1,9 @@
+﻿{
+  "PlayCaptureSoundEnable": "True",
+  "CaptureSoundsDir": "CaptureSounds",
+  "SoundFile": {
+    "Name": "Windows Navigation Start.wav",
+    "Location": "WindowsMediaDir"
+  },
+  "CaptureKeys": "c,XButton1,XButton2"
+}
